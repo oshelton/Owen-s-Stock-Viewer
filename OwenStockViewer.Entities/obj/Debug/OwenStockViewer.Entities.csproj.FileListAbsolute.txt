@@ -1,0 +1,5 @@
+D:\Users\Owen\Documents\Github Projects\OwensStockViewer\OwenStockViewer.Entities\bin\Debug\OwenStockViewer.Entities.dll
+D:\Users\Owen\Documents\Github Projects\OwensStockViewer\OwenStockViewer.Entities\bin\Debug\OwenStockViewer.Entities.pdb
+D:\Users\Owen\Documents\Github Projects\OwensStockViewer\OwenStockViewer.Entities\obj\Debug\OwenStockViewer.Entities.csprojResolveAssemblyReference.cache
+D:\Users\Owen\Documents\Github Projects\OwensStockViewer\OwenStockViewer.Entities\obj\Debug\OwenStockViewer.Entities.dll
+D:\Users\Owen\Documents\Github Projects\OwensStockViewer\OwenStockViewer.Entities\obj\Debug\OwenStockViewer.Entities.pdb

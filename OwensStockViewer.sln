@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwensStockViewer", "OwensStockViewer\OwensStockViewer.csproj", "{543DC739-E695-4461-80B6-C77C77C82761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwenStockViewer.Entities", "OwenStockViewer.Entities\OwenStockViewer.Entities.csproj", "{D4993F80-235C-49A8-A4E0-C548F88DEB68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwenStockViewer.Tests", "OwenStockViewer.Tests\OwenStockViewer.Tests.csproj", "{EF0068C5-ECC9-4113-B344-BDF97FF5E921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543DC739-E695-4461-80B6-C77C77C82761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543DC739-E695-4461-80B6-C77C77C82761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543DC739-E695-4461-80B6-C77C77C82761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543DC739-E695-4461-80B6-C77C77C82761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4993F80-235C-49A8-A4E0-C548F88DEB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4993F80-235C-49A8-A4E0-C548F88DEB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4993F80-235C-49A8-A4E0-C548F88DEB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4993F80-235C-49A8-A4E0-C548F88DEB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0068C5-ECC9-4113-B344-BDF97FF5E921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0068C5-ECC9-4113-B344-BDF97FF5E921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0068C5-ECC9-4113-B344-BDF97FF5E921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0068C5-ECC9-4113-B344-BDF97FF5E921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
