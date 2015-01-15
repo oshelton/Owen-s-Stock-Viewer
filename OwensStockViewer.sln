@@ -6,9 +6,9 @@ VisualStudioVersion = 12.0.20827.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwensStockViewer", "OwensStockViewer\OwensStockViewer.csproj", "{543DC739-E695-4461-80B6-C77C77C82761}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwenStockViewer.Entities", "OwenStockViewer.Entities\OwenStockViewer.Entities.csproj", "{D4993F80-235C-49A8-A4E0-C548F88DEB68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwensStockViewer.Entities", "OwenStockViewer.Entities\OwensStockViewer.Entities.csproj", "{D4993F80-235C-49A8-A4E0-C548F88DEB68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwenStockViewer.Tests", "OwenStockViewer.Tests\OwenStockViewer.Tests.csproj", "{EF0068C5-ECC9-4113-B344-BDF97FF5E921}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwensStockViewer.Tests", "OwenStockViewer.Tests\OwensStockViewer.Tests.csproj", "{EF0068C5-ECC9-4113-B344-BDF97FF5E921}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
